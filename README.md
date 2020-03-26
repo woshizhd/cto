@@ -14,6 +14,7 @@
     - [VCE做题软件](https://www.lanzous.com/iao1lef)
     - [HCIA](https://www.lanzous.com/iao1l6h)
     - [HCIP](https://www.lanzous.com/iao1l4f)
+    - [eNSP](https://zhd088.coding.net/p/ipa/d/ipa/git/raw/master/soft/eNSP%E8%BD%AF%E4%BB%B6%E5%8C%85%E9%9B%86%E5%90%88.7z)
 
 ## H3c
 
